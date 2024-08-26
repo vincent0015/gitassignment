@@ -1,0 +1,19 @@
+THESE INCLUDE FILES AND DIRECTORY THAT ARE TO BE IGNORED
+
+# Ignore log files
+*.log
+
+# Ignore compiled code
+*.class
+*.o
+*.a
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
